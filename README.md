@@ -13,4 +13,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Eu sou Antonio Oliveira, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+ 
+HTML 
+CSS 
+
+[![Antonio](https://github-stats-extended.vercel.app/api?username=antoniogoliveira)](https://github.com/stats-organization/github-stats-extended)
+
 -->
+Eu sou Antonio Oliveira, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
+ 
+<img src= "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+
+[![Antonio](https://github-stats-extended.vercel.app/api?username=antoniogoliveira)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogoliveira)](https://github.com/anuraghazra/github-readme-stats)
