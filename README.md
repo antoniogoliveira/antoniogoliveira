@@ -31,7 +31,8 @@ Eu sou Antonio Oliveira, sou um programador Front End, atualmente estou aprenden
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
+<br>
+<br>
 
 [![Antonio](https://github-stats-extended.vercel.app/api?username=antoniogoliveira)](https://github.com/stats-organization/github-stats-extended)
 
